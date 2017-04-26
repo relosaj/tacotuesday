@@ -1,0 +1,13 @@
+body {
+	font-family: Arial;
+	font-size: 18px;
+	background-color: #777;
+	text-align: center;
+	font-color: #ebebeb;
+	width: 960px;
+}
+
+p {
+	font-size: 30px;
+	font-color: yellow;
+}
